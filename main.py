@@ -2,7 +2,7 @@ import requests
 
 
 def random_wiki():
-    pass
+    userinput = input("Search excerpt in wikipedia: ")
 
 
 if __name__ == "__main__":
